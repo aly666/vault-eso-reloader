@@ -1,0 +1,4 @@
+# values.yaml
+reloader:
+  watchGlobally: true
+
